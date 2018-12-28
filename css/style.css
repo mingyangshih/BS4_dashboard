@@ -1,0 +1,8 @@
+body {
+  font-family: "Noto Sans TC", sans-serif; }
+
+html {
+  font-size: 14px; }
+
+.main {
+  min-height: calc(100vh - 165.25px); }
